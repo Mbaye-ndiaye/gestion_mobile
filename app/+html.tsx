@@ -28,6 +28,8 @@ export default function Root({ children }: PropsWithChildren) {
   );
 }
 
+
+
 const responsiveBackground = `
 body {
   background-color: #fff;
